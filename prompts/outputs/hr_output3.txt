@@ -1,0 +1,11 @@
+==========================
+Prompt Category: Internal Communication / HR
+Prompt ID: 3
+Prompt Title: Performance Review Summary
+==========================
+
+📩 Prompt:
+You are an HR partner writing a performance review summary. The employee is punctual, meets expectations, and collaborates well. Keep it formal and concise.
+
+💬 ChatGPT Response:
+[Employee Name] consistently demonstrates reliability by arriving on time and meeting assigned goals. They maintain a strong collaborative approach and are a valued contributor to team success. Overall, their performance meets expectations across all reviewed areas.

@@ -1,0 +1,15 @@
+==========================
+Prompt Category: Marketing & Copywriting
+Prompt ID: 2
+Prompt Title: Generate Email Subject Lines
+==========================
+
+📩 Prompt:
+You’re a marketing analyst. Generate 5 high-conversion subject lines for a summer promo campaign targeting small businesses.
+
+💬 ChatGPT Response:
+1. ☀️ Summer Savings Just for You – Up to 40% Off!
+2. Boost Your Business This Summer – Here’s How
+3. Hot Deal Alert: Summer Discounts Inside 🔥
+4. Small Business. Big Summer. Big Savings.
+5. Ready for Growth? Our Summer Specials Are Here

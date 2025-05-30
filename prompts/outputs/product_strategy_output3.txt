@@ -1,0 +1,13 @@
+==========================
+Prompt Category: Product Strategy
+Prompt ID: 3
+Prompt Title: Beta Feedback Summary
+==========================
+
+📩 Prompt:
+You’re a product manager. Summarize 20 beta tester comments into 3 action items for the dev team.
+
+💬 ChatGPT Response:
+1. Improve mobile app speed during startup  
+2. Add tutorial overlays for first-time users  
+3. Fix sync issues when switching between devices

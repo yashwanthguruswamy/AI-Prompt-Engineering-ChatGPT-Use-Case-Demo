@@ -1,0 +1,11 @@
+==========================
+Prompt Category: Operations / Process Automation
+Prompt ID: 3
+Prompt Title: Optimize Shift Scheduling
+==========================
+
+📩 Prompt:
+You are asked to optimize shift planning for a team of 5 analysts. Write a short policy that ensures fair workload distribution.
+
+💬 ChatGPT Response:
+To ensure fairness, each analyst will be scheduled for an equal number of day and evening shifts across the week. No analyst will be assigned more than two back-to-back closing shifts. Shift rotations will follow a 2-week cycle to balance workload and avoid burnout.

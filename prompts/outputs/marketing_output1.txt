@@ -1,0 +1,11 @@
+==========================
+Prompt Category: Marketing & Copywriting
+Prompt ID: 1
+Prompt Title: LinkedIn Product Launch Post
+==========================
+
+📩 Prompt:
+Create a professional LinkedIn post announcing the launch of a new feature for a productivity app. Keep it engaging and under 80 words.
+
+💬 ChatGPT Response:
+🚀 We’re excited to launch our new Smart Task Scheduler – built to help you plan your week in seconds! Save time, reduce stress, and stay focused with one tap. Try it now and let us know what you think! #Productivity #TaskManagement #Launch

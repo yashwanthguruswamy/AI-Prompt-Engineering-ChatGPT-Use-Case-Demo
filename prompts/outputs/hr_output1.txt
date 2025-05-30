@@ -1,0 +1,21 @@
+==========================
+Prompt Category: Internal Communication / HR
+Prompt ID: 1
+Prompt Title: Welcome Email for New Hire
+==========================
+
+📩 Prompt:
+Write a welcome email for a new remote hire, including team introduction, meeting invite, and onboarding steps.
+
+💬 ChatGPT Response:
+Subject: Welcome to the Team, [New Hire Name]!
+
+Hi [New Hire Name],
+
+We’re thrilled to have you join us! 🎉 You’ll be working closely with our operations team, led by [Manager Name]. Your first team call is scheduled for Monday at 10:00 AM (Zoom invite attached).
+
+In the meantime, please review the onboarding checklist in your email and reach out with any questions. We’re excited to see the impact you’ll bring!
+
+Welcome aboard,  
+[Your Name]  
+HR Team

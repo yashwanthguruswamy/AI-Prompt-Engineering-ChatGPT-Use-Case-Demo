@@ -1,0 +1,11 @@
+==========================
+Prompt Category: Product Strategy
+Prompt ID: 2
+Prompt Title: Roadmap Prioritization
+==========================
+
+📩 Prompt:
+Given feature A is high-impact but time-consuming, and feature B is low-impact but quick, generate a recommendation for product roadmap prioritization.
+
+💬 ChatGPT Response:
+While feature A offers greater long-term value, implementing feature B first allows for a quick win and immediate customer satisfaction. This approach builds momentum and buys time for the more complex feature A. I recommend rolling out B now and planning A for the next sprint.

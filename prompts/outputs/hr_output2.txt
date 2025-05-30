@@ -1,0 +1,15 @@
+==========================
+Prompt Category: Internal Communication / HR
+Prompt ID: 2
+Prompt Title: Generate Interview Questions
+==========================
+
+📩 Prompt:
+Generate 5 behavior-based interview questions for an entry-level data analyst role.
+
+💬 ChatGPT Response:
+1. Tell me about a time when you used data to make a recommendation.  
+2. How do you prioritize tasks when working with multiple datasets?  
+3. Describe a time when you identified a mistake in a report — what did you do?  
+4. Give an example of a project where collaboration was essential.  
+5. How do you approach learning a new tool or analysis method?

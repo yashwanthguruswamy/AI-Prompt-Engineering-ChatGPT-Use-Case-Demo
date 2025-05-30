@@ -1,0 +1,11 @@
+==========================
+Prompt Category: Marketing & Copywriting
+Prompt ID: 3
+Prompt Title: Write a Comparison Paragraph
+==========================
+
+📩 Prompt:
+Write a paragraph comparing your product to a top competitor. Highlight 3 advantages without naming the competitor.
+
+💬 ChatGPT Response:
+Our platform offers real-time analytics, customizable dashboards, and seamless integration with your favorite tools—three features that set us apart in the market. While other platforms may focus on one area, we give teams a unified workspace that’s both powerful and user-friendly.

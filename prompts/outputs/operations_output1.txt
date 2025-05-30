@@ -1,0 +1,18 @@
+==========================
+Prompt Category: Operations / Process Automation
+Prompt ID: 1
+Prompt Title: Create a Standard Operating Procedure (SOP)
+==========================
+
+📩 Prompt:
+Write a short SOP for onboarding a new software vendor. Include steps for approval, documentation, and access setup.
+
+💬 ChatGPT Response:
+**Standard Operating Procedure – Vendor Onboarding**
+
+1. Submit vendor request form with business justification.  
+2. Obtain approval from department manager and procurement.  
+3. Request legal to send NDA and master service agreement (MSA).  
+4. Once signed, enter vendor details into internal system.  
+5. Grant secure access to necessary systems and assign POC.  
+6. Schedule onboarding and training session with vendor team.

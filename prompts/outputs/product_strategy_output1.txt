@@ -1,0 +1,13 @@
+==========================
+Prompt Category: Product Strategy
+Prompt ID: 1
+Prompt Title: Summarize Feature Requests
+==========================
+
+📩 Prompt:
+You have 30 pieces of user feedback asking for improvements. Write a bullet list summarizing the 3 most requested features.
+
+💬 ChatGPT Response:
+- Dark mode for better readability at night  
+- Integration with Google Calendar for task syncing  
+- Mobile offline access for productivity on the go

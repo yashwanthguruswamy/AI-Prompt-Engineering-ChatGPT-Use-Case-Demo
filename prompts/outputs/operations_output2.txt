@@ -1,0 +1,11 @@
+==========================
+Prompt Category: Operations / Process Automation
+Prompt ID: 2
+Prompt Title: Automate Weekly Report Summary
+==========================
+
+📩 Prompt:
+You are an operations analyst. Draft an automated weekly summary report (in paragraph form) based on 3 KPIs: SLA, backlog, and ticket volume.
+
+💬 ChatGPT Response:
+This week, the SLA compliance rate held steady at 96%, meeting our target. The support backlog decreased by 14%, indicating improved ticket resolution efficiency. Total ticket volume rose slightly to 2,320, driven primarily by increased usage after the latest product update.
